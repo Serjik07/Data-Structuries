@@ -1,0 +1,6 @@
+﻿  hashtables.cpp
+C:\Users\DoC\Desktop\Data-Structuries\cpp\linkedList\hashtables.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\DoC\Desktop\Data-Structuries\cpp\linkedList\hashtables.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\DoC\Desktop\Data-Structuries\cpp\linkedList\hashtables.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\DoC\Desktop\Data-Structuries\cpp\linkedList\hashtables.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  hashtables.vcxproj -> C:\Users\DoC\Desktop\Data-Structuries\cpp\linkedList\x64\Debug\hashtables.exe
